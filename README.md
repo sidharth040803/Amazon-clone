@@ -1,2 +1,2 @@
 # Amazon-clone
-My first Project done on my own 
+MY FIRST WEB-DEVELOPENT PROJECT
